@@ -367,7 +367,7 @@
           <a aria-label="Link al sitio web valor del tiempo" href="index.php" class="logo d-flex align-items-center">
             <span class="sitename">Calculadora de salario neto</span>
           </a>
-          <p>Sitio web que permite el cálculo del salario neto en base al salario bruto mensual, junto a otras estadísticas</p>
+          <p>Una herramienta segura, rápida y gratuita. Para nosotros, tu privacidad es nuestra prioridad. Calcula tu salario neto sin preocuparte por tus datos.</p>
           <hr/>
           <p>En este caso el aporte de impuesto a la renta es definido automáticamente en base al ingreso mensual bruto, esto puesto a que difiere de acuerdo a la cantidad</p>
           <div class="social-links d-flex mt-4">
@@ -379,13 +379,14 @@
         <div class="col-lg-6 col-md-12 footer-contact text-center text-md-start">
           <h4>Contáctenos</h4>
           <hr/>
+          <p>valordeltiempo@gmail.com</p>
           <p>Moravia, San Jose</p>
           <p>Costa Rica</p>
         </div>
 
         <div class="col-lg-12 col-md-12 footer-about text-center text-md-start">
           <hr/>
-          <p>Transforma tus números en claridad. Usa ‘El Valor Del Tiempo’ para conocer exactamente cuánto ganas después de los rebajos de ley. Una herramienta fácil, rápida y gratuita en elvalordeltiempo.com. ¡Porque tu tiempo vale oro,</p>
+          <p>¿Cuánto vale tu tiempo? Descúbrelo sin riesgos. En elvalordeltiempo.com calculamos tu salario neto con precisión y sin guardar tu información. Explora nuestro taxímetro y observa cómo cada segundo cuenta.</p>
         </div>
 
       </div>
